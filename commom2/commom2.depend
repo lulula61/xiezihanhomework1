@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1647315743 source:d:\codeblocks\workspace\commom2\main.cpp
+	<iostream>
+	<windows.h>
+	<stdlib.h>
+	<cmath>
+
